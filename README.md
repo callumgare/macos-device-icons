@@ -1,0 +1,1 @@
+A quickly-written and very messy script to export a reference table of the all device icons in MacOS and the various device codes which match each icon.
